@@ -10,6 +10,4 @@ Open wifigrabber.bat in a text editor and replace the discord webhook url on lin
 
 **Install**
 
-Curl 
-Powershell
-Wireless Wi-Fi connection 
+Curl, Powershell, Wireless Wi-Fi connection 
