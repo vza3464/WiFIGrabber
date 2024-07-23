@@ -9,6 +9,7 @@
 Open wifigrabber.bat in a text editor and replace the discord webhook url on line 20
 
 **Install**
+
 Curl
 Powershell
 Wireless Wi-Fi connection
